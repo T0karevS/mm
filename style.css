@@ -12,11 +12,11 @@ p
 }
 .div2
 {
-    margin-left: 340px;
+    margin-left: 380px;
 }
 .div3
 {
-    margin-left: 428px;
+    margin-left: 468px;
     height: 100px;
 }
 .arrow1
@@ -33,4 +33,8 @@ p
 {
     width: 80px;
     margin: 25px 34px 21px -28px;
+}
+input
+{
+    width: 20px;
 }
