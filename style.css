@@ -32,9 +32,16 @@ p
 .arrow3
 {
     width: 80px;
-    margin: 25px 34px 21px -28px;
+    margin: 0px 34px 21px -28px;
 }
 input
 {
     width: 20px;
+}
+.p-5
+{
+    display:flex;
+    position:absolute; 
+    margin-left: 150px; 
+    margin-top: -40px;
 }
